@@ -1,4 +1,8 @@
-# Carb_POC
-(Failed) Proof of Concept for Carb, a vertical SaaS for construction cost estimation using LLM for rapid data extraction 
+<h1>Carb</h1>
+<h3>Proof of Concept for Carb, a vertical SaaS for construction cost estimation using LLM for rapid data extraction from digital/analog documents</h3> 
 
-<video src="https://youtu.be/xCdwMF8y7uY" width="320" height="240" controls></video>
+
+
+https://github.com/user-attachments/assets/715f9e6e-9f36-4656-890f-f1a57e08e085
+
+
